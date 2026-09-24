@@ -1,0 +1,23 @@
+{
+  "repo": "obs-studio-max-2026",
+  "product": "OBS Studio Max 2026",
+  "kind": "video",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "video-editing",
+  "topics": [
+    "obs-studio-max",
+    "obs-windows",
+    "video-editing-desktop",
+    "how-to-install-obs",
+    "obs-studio-max-desktop-package",
+    "obs-workspace",
+    "obs-2026",
+    "obs-studio-max-pro-tools",
+    "obs-suite",
+    "zentool-obs"
+  ],
+  "site": "zentool.art"
+}
